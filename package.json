@@ -1,0 +1,23 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "This is an quiz app for demon slayer anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDuckling/quiz-app.git"
+  },
+  "author": "dev duckling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevDuckling/quiz-app/issues"
+  },
+  "homepage": "https://github.com/DevDuckling/quiz-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
